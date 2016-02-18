@@ -1,0 +1,17 @@
+name: gh
+channels:
+- bokeh
+dependencies:
+- python=3.4
+- jupyter
+- ipywidgets
+- blaze
+- requests
+- nodejs
+- jinja2
+- pandas
+- matplotlib
+- pip:
+  - traitlets
+  - coffeetools
+  - multipledispatch
